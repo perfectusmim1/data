@@ -1,7 +1,7 @@
 {
   "id": "686e5f9fd49c61e2061ad4c9",
-  "title": "reyeyery",
-  "titleEnglish": "eyeryery",
+  "title": "testestest",
+  "titleEnglish": "testest",
   "description": "eryerye",
   "type": "TV",
   "status": "Airing",
@@ -24,18 +24,18 @@
   "trailer": "https://youtu.be/f8JrZ7Q_p-8",
   "imdbUrl": "https://www.imdb.com/title/tt10233448/",
   "imdbRating": 8.8,
-  "posterPath": "/uploads/images/poster-1752066867289-54411080.jpg",
-  "bannerPath": "/uploads/images/banner-1752066867290-267317327.jpg",
+  "posterPath": "/uploads/images/testestest_poster.jpg",
+  "bannerPath": "/uploads/images/testestest_banner.jpg",
   "rating": {
     "average": 0,
     "count": 0
   },
   "popularity": 0,
   "views": {
-    "total": 6,
-    "monthly": 6,
-    "weekly": 6
+    "total": 8,
+    "monthly": 8,
+    "weekly": 8
   },
   "createdAt": "2025-07-09T12:25:03.688Z",
-  "updatedAt": "2025-07-09T13:14:27.295Z"
+  "updatedAt": "2025-07-09T13:26:02.484Z"
 }
