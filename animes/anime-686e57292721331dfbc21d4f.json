@@ -1,0 +1,40 @@
+{
+  "id": "686e57292721331dfbc21d4f",
+  "title": "asfasfa",
+  "titleEnglish": "sfasfas",
+  "description": "höföf",
+  "type": "TV",
+  "status": "Completed",
+  "year": 2025,
+  "studios": [
+    "sss"
+  ],
+  "producers": [
+    "aaa"
+  ],
+  "genres": [
+    "Romantik"
+  ],
+  "tags": [
+    "oıoıoıoı"
+  ],
+  "totalEpisodes": 25,
+  "duration": 24,
+  "trailer": "https://youtu.be/f8JrZ7Q_p-8",
+  "imdbUrl": "https://www.imdb.com/title/tt10233448/",
+  "imdbRating": 8.8,
+  "posterPath": "/uploads/images/poster-1752062773774-723146627.jpg",
+  "bannerPath": "/uploads/images/banner-1752062773774-814439869.jpg",
+  "rating": {
+    "average": 0,
+    "count": 0
+  },
+  "popularity": 0,
+  "views": {
+    "total": 19,
+    "monthly": 19,
+    "weekly": 19
+  },
+  "createdAt": "2025-07-09T11:48:57.086Z",
+  "updatedAt": "2025-07-09T12:38:20.468Z"
+}
