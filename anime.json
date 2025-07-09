@@ -1,0 +1,11 @@
+{
+  "id": "anime-id",
+  "title": "Anime Adı",
+  "titleEnglish": "English Title",
+  "description": "Açıklama",
+  "genres": ["Action", "Adventure"],
+  "year": 2024,
+  "posterPath": "/uploads/images/poster.jpg",
+  "bannerPath": "/uploads/images/banner.jpg",
+  "createdAt": "2024-01-01T00:00:00.000Z"
+}
